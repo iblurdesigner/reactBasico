@@ -1,0 +1,11 @@
+commit c59a78c508d9e61e9d66b1c535c739f63c101ab9
+Author: iblurdesigner <nevomen@gmail.com>
+Date:   Thu Sep 12 17:12:19 2019 -0500
+
+    Paso de HTML a React
+
+commit e7510f574013b40566e267cf0953dd69a694eed2
+Author: iblurdesigner <nevomen@gmail.com>
+Date:   Sun Sep 8 17:53:46 2019 -0500
+
+    configuracion inicial
