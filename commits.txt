@@ -1,3 +1,9 @@
+commit 128898236124ad7ab20d18c2c965e80bda6a5da1
+Author: iblurdesigner <nevomen@gmail.com>
+Date:   Sat Sep 14 12:38:50 2019 -0500
+
+    Conectando la informacion de la API
+
 commit 8ce1eb5118049bf9307b06b96d4810e0b2b30418
 Author: iblurdesigner <nevomen@gmail.com>
 Date:   Fri Sep 13 17:26:46 2019 -0500
