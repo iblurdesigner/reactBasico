@@ -1,3 +1,9 @@
+commit 8ce1eb5118049bf9307b06b96d4810e0b2b30418
+Author: iblurdesigner <nevomen@gmail.com>
+Date:   Fri Sep 13 17:26:46 2019 -0500
+
+    Final del maquetado
+
 commit c59a78c508d9e61e9d66b1c535c739f63c101ab9
 Author: iblurdesigner <nevomen@gmail.com>
 Date:   Thu Sep 12 17:12:19 2019 -0500
